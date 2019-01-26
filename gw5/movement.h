@@ -1,4 +1,6 @@
 #pragma once
+
+#include "stdafx.h"
 #include <iostream>
 #include <iomanip>
 #include <windows.h>
@@ -7,6 +9,8 @@
 #include <string>
 #include <stdlib.h> 
 #include <time.h>    
+
+using namespace std;
 
 int randCustom(int delta) {
 	return rand() % (delta * 2) - delta;
