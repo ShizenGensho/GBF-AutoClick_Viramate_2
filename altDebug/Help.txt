@@ -1,0 +1,9 @@
+Help.txt is help
+
+In Settings.txt
+The first number is the offset in the X direction
+The second number is the average delay(ms) between clicks
+
+In every other file are the desired skills 
+1st number of each row = character position
+2nd number of each row = skill number (as in normal view)
